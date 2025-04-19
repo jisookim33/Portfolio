@@ -11,8 +11,8 @@ Welcome to my portfolio! A summary of my projects and skills.
 
 | Project Link | Area | Project Description | 
 |---|---|---|
-| 🧹 [Layoff Data Cleaning](https://github.com/jisookim33/) | Data cleaning, data transformation | In this project, I take raw layoff data and transform it in SQL Server to make it more usable for analysis. | 
-| 🗺️ [Layoff Data Exploration](https://github.com/jisookim33/) | Data exploration, data analysis | I explore layoff dataset between March, 2020 and March, 2023 in SQL server to find valuable insights from it. |  
+| 🧹 [Layoff Data Cleaning](https://github.com/jisookim33/) | Data cleaning, data transformation | In this project, I transformed raw layoff data in SQL Server to enhance its usability for analysis. | 
+| 🗺️ [Layoff Data Exploration](https://github.com/jisookim33/Layoff-Data-Exploration) | Data exploration, data analysis | I analyzed a layoff dataset spanning from March 2020 to March 2023 using SQL Server to extract valuable insights. |  
 
 ***
 
