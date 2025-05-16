@@ -31,6 +31,7 @@ Welcome to my portfolio, where you'll find a summary of my projects and skill se
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
+|[IMDb Movie Revenue](https://github.com/jisookim33/Analyzing-Correlations-in-IMDb-Movie-Revenue/blob/main/IMDB_Movie_Analysis.ipynb)| Data Wrangling & EDA | Analyzed data from ~7,700 IMDb movies using Python (pandas, matplotlib, seaborn) to identify factors linked to higher box office success, including genre, score, budget, and company. | pandas, matplotlib, seaborn, numpy |
 |[Noise Editor](https://github.com/jisookim33/noiseeditor) | Programming | The Noise Editor is a custom Python tool developed for Autodesk Maya that allows animators to easily add natural, randomized motion to any object. It is designed to enhance animation workflows. | dcc, mpy | 
 |[Wiggler](https://github.com/jisookim33/wiggler) | Programming | The Wiggler is a Python-based tool for Autodesk Maya that automates the creation of secondary animation. Designed for animators, it generates subtle, dynamic motions. | dcc, mpy |   
 
